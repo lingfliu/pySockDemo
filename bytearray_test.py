@@ -1,0 +1,3 @@
+reply = [0x00, 0xaa, 0x00, 0xcc]
+arr = bytearray(reply)
+len(arr)
